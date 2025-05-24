@@ -21,5 +21,7 @@ python main.py
 
 Command	Action
 ROW COL	Toggle bulb at position
+
 s	Show optimal solution
+
 q	Quit game
