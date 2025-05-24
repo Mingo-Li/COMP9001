@@ -11,11 +11,11 @@ A terminal-based implementation of the classic Lights Out puzzle with solver AI.
 - 📊 **Move counter** (in solver mode)
 
 ## How to Play
-Install dependencies:
+### Install dependencies:
 
 pip install numpy colorama
 
-Run the game:
+### Run the game:
 
 python main.py
 
